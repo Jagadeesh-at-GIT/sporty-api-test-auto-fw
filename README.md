@@ -49,7 +49,7 @@ Config overrides (all optional):
 
 ## Demo
 
-![Test execution](execution_gif/Screen%20Recording%202026-08-16%20at%204.59.42%20PM.gif)
+![Test execution](execution_gif/API_Execution.gif)
 
 ## Framework structure
 
