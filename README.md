@@ -47,6 +47,10 @@ Config overrides (all optional):
 | `REST_MAX_RESPONSE_MS` | `3000` | Latency threshold used by test 7 |
 | `REST_HOLIDAY_YEAR` | current year | Year queried by test 3 |
 
+## Demo
+
+![Test execution](execution_gif/Screen%20Recording%202026-08-16%20at%204.59.42%20PM.gif)
+
 ## Framework structure
 
 ```
